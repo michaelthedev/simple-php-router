@@ -22,12 +22,12 @@
   },
   "authors": [
     {
-      "name": "Michael Arawole",
-      "email": "michael@logad.net"
-    },
-    {
       "name": "Simon Sessingø",
       "email": "simon.sessingoe@gmail.com"
+    },
+    {
+      "name": "Michael Arawole",
+      "email": "michael@logad.net"
     }
   ],
   "require": {
@@ -49,7 +49,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Pecee\\": "src/Pecee/"
+      "LogadApp\\": "src/Pecee/"
     }
   },
   "config": {
