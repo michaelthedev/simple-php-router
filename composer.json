@@ -1,6 +1,6 @@
 {
   "name": "michaelthedev/simple-router",
-  "description": "Simple, fast PHP router that is easy to get integrated and in almost any project. Heavily inspired by the Laravel router.",
+  "description": "Simple, fast PHP router that is easy to get integrated and in almost any project. Heavily inspired by the Laravel router. (Forked from skipperbent/simple-php-router)",
   "keywords": [
     "router",
     "router",
